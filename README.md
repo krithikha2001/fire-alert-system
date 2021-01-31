@@ -1,4 +1,4 @@
-# Fire-Alert-system
+# Fire-Alert-System
 Project Timeline-.
 1. Introduction to Basic Devices  {23 Jan}
 2. UART Protocol Basics {24Jan-25Jan}

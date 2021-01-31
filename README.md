@@ -3,8 +3,8 @@ Project Timeline-.
 1. Introduction to Basic Devices  {23 Jan}
 2. UART Protocol Basics {24Jan-25Jan}
 3. UART Coding and AT Commands for                       sending message using GSM    module{26Jan-2Feb}
-     4: I2C Protocol Basics {3Feb-4Feb}
-     5: Coding for temperature sensor using I2C{5Feb-9Feb}
+4. I2C Protocol Basics {3Feb-4Feb}
+5. Coding for temperature sensor using I2C{5Feb-9Feb}
 
 Abstract
 
